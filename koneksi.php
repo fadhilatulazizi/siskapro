@@ -1,9 +1,9 @@
 <?php
 $conn = mysqli_connect(
     "localhost",
-    "bdtitlga_nilai",
-    "Azizi0311!!",
-    "bdtitlga_nilai"
+    "sampel_adminsiskapro",
+    "sampel_adminsiskapro",
+    "sampel_adminsiskapro"
 );
 
 if(!$conn){

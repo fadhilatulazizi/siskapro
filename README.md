@@ -5,7 +5,7 @@
 > SISKA PRO adalah platform sistem informasi sekolah berbasis web yang dikembangkan untuk mengintegrasikan manajemen siswa, guru, kelas, akademik, nilai, absensi, BK, dokumen sekolah, laporan, komunikasi, serta layanan informasi siswa secara publik dalam satu ekosistem digital.
 
 [![Live Project](https://img.shields.io/badge/Live%20Project-siskapro.my.id-2563eb?style=for-the-badge)](https://siskapro.my.id/)
-[![Status](https://img.shields.io/badge/Status-Ongoing-22c55e?style=for-the-badge)](https://siskapro.my.id/)
+[![Test Prpject](https://img.shields.io/badge/Status-Ongoing-22c55e?style=for-the-badge)](https://masfadhil.my.id/project/siskapro/administrasi/login.php)
 [![Year](https://img.shields.io/badge/Year-2026-64748b?style=for-the-badge)](https://siskapro.my.id/)
 
 ---
@@ -1506,25 +1506,25 @@ Perkembangan ini menunjukkan pendekatan **continuous product development** berda
 
 ## Dashboard
 
-![SISKA PRO Dashboard](docs/dashboard.png)
+![SISKA PRO Dashboard](dashboard.png)
 
 ---
 
 ## Student Management
 
-![SISKA PRO Student Management](docs/student-management.png)
+![SISKA PRO Student Management](student-management.png)
 
 ---
 
 ## Academic Management
 
-![SISKA PRO Academic Management](docs/academic.png)
+![SISKA PRO Academic Management](academic.png)
 
 ---
 
 ## Student Grades
 
-![SISKA PRO Grades](docs/grades.png)
+![SISKA PRO Grades](grades.png)
 
 ---
 
@@ -1542,19 +1542,19 @@ Perkembangan ini menunjukkan pendekatan **continuous product development** berda
 
 ## BK / Student Guidance
 
-![SISKA PRO BK](docs/bk.png)
+![SISKA PRO BK](bk.png)
 
 ---
 
 ## Document Management
 
-![SISKA PRO Documents](docs/documents.png)
+![SISKA PRO Documents](documents.png)
 
 ---
 
 ## Public Student Profile
 
-![SISKA PRO Public Student Profile](docs/public-student.png)
+![SISKA PRO Public Student Profile](public-student.png)
 
 ---
 
